@@ -1,0 +1,15 @@
+{
+  "name": "opswat-challenge",
+  "version": "1.0.0",
+  "description": "check hash against cached results and upload if not existing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tyler Walker",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^5.0.1"
+  }
+}
